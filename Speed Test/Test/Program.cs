@@ -1,11 +1,7 @@
 ﻿using System;
 namespace Test
 {
-    public enum ImageOrientation
-        {
-            landscape,
-            portrait
-        }
+
 
     class Program
     {
